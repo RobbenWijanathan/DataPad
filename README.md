@@ -4,16 +4,16 @@
 
 ## Features
 
-### 1. StringFlip 🔄  
+### 1. StringFlip 
 A straightforward utility to **reverse strings**—whether it’s flipping text forwards or backwards.  
 
-### 2. Salvatore Property 🏠  
+### 2. Salvatore Property 
 A CSV-powered property management tool that allows users to:
-- ✔ **View** property data from a CSV file
-- ✔ **Export** data in a structured format
-- ✔ **Sort** properties by a chosen column
-- ✔ **Search** for specific property entries
-- ✔ **Perform** additional operations using basic algorithms and structs
+- **View** property data from a CSV file
+- **Export** data in a structured format
+- **Sort** properties by a chosen column
+- **Search** for specific property entries
+- **Perform** additional operations using basic algorithms and structs
 
 Built with **simple C structures and algorithms**, DataPad is a minimal yet effective tool for text manipulation and structured data handling.
 
@@ -30,7 +30,7 @@ Built with **simple C structures and algorithms**, DataPad is a minimal yet effe
    ```
 3. Compile the program:
    ```bash
-   gcc -o datapad datapad.c
+   gcc -o datapad main.c
    ```
 4. Run the program:
    ```bash
