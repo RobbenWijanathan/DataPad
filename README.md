@@ -13,7 +13,7 @@ A CSV-powered property management tool that allows users to:
 - ✔ **Export** data in a structured format
 - ✔ **Sort** properties by a chosen column
 - ✔ **Search** for specific property entries
-- ✔ **Perform additional operations using basic algorithms and structs
+- ✔ **Perform** additional operations using basic algorithms and structs
 
 Built with **simple C structures and algorithms**, DataPad is a minimal yet effective tool for text manipulation and structured data handling.
 
