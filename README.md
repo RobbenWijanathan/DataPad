@@ -5,7 +5,7 @@
 ## Features
 
 ### 1. StringFlip 
-A straightforward utility to **reverse strings**—whether flipping text forwards to backwards.  
+A straightforward utility to **reverse strings**—flipping text forwards to backwards.  
 
 ### 2. Salvatore Property 
 A CSV-powered property management tool that allows users to:
