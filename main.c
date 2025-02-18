@@ -1696,7 +1696,6 @@ void exportData(){
     file = fopen(filename, "w");
     if (file == NULL) {
         perror("Error opening file");
-        return EXIT_FAILURE;
     }
     fprintf(file, "Location 1,Location 2,Price,Rooms,Bathrooms,CarParks,Type,Furnish\n");
     for(int i = 0; i < ctr; i++){
