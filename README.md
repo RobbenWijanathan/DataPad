@@ -70,6 +70,6 @@ Feel free to fork this repository, open issues, or submit pull requests to impro
 ---
 
 ## Contact
-📧 **Email:** robbenwijanathan@gmail.com  
+📧 **Email:** robbenwijanathan@gmail.com
 🐙 **GitHub:** [RobbenWijanathan](https://github.com/RobbenWijanathan)  
 
