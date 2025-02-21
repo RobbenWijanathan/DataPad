@@ -22,19 +22,19 @@ Built with **simple C structures and algorithms**, DataPad is a minimal yet effe
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RobbenWijanathan/datapad.git
+   git clone https://github.com/RobbenWijanathan/DataPad.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd datapad
+   cd DataPad
    ```
 3. Compile the program:
    ```bash
-   gcc -o datapad main.c
+   gcc -o DataPad main.c
    ```
 4. Run the program:
    ```bash
-   ./datapad
+   ./DataPad
    ```
 
 ---
